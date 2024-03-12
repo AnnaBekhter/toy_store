@@ -1,0 +1,10 @@
+Toy{id='5', name='Машинка', frequency=6}
+Toy{id='6', name='Робот', frequency=6}
+Toy{id='5', name='Машинка', frequency=5}
+Toy{id='2', name='Конструктор LEGO', frequency=4}
+Toy{id='5', name='Машинка', frequency=4}
+Toy{id='2', name='Конструктор LEGO', frequency=4}
+Toy{id='2', name='Конструктор LEGO', frequency=4}
+Toy{id='5', name='Машинка', frequency=3}
+Toy{id='5', name='Машинка', frequency=5}
+Toy{id='1', name='Мягкий мишка', frequency=3}
